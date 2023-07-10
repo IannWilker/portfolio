@@ -1,7 +1,8 @@
 # portfolio
 Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/screen.png)
+![image](https://user-images.githubusercontent.com/portfolio
+/screen.png)
 
 ## Ferramentas utilizadas:
 
